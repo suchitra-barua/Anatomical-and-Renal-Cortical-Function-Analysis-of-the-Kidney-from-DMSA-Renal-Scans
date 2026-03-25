@@ -1,2 +1,3 @@
 # Anatomical-and-Renal-Cortical-Function-Analysis-of-the-Kidney-from-DMSA-Renal-Scans
 This thesis presents a deep learning–based approach for analyzing kidney anatomy and renal cortical function using DMSA (Dimercaptosuccinic Acid) renal scan images. The primary objective is to assist in the detection of abnormalities such as renal scarring, cortical defects, and functional irregularities.  
+We have used the primary dataset by using the DMSA image.The model is trained on annotated medical imaging datasets, where segmentation masks help in precise localization of kidney structures, and classification labels support functional assessment. Performance is evaluated using standard metrics such as accuracy, Dice coefficient, and loss functions to ensure reliable predictions.
